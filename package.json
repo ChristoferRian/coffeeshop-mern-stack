@@ -1,0 +1,12 @@
+{
+  "name": "coffeeshop-mern-stack",
+  "version": "1.0.0",
+  "description": "Coffee shop website pakai MERN stack (MongoDB, Express.js, React.js, Node.js) untuk portofolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Muhammad Christofer Rian Nugroho",
+  "license": "MIT"
+}
